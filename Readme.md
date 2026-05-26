@@ -188,7 +188,7 @@ The dataset contains customer-related information including:
 Dataset obtained from Kaggle and further cleaned, transformed, and modeled for churn analysis purposes.
 
 Original Dataset:
-[DataSet Download](data/Telco_Customer_Churn_Dataset.csv)
+[DataSet Download](Data/Telco_Customer_Churn_Dataset.csv)
 
 ---
 
