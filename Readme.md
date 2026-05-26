@@ -286,8 +286,8 @@ CUSTOMER_CHURN_ANALYTICS_DASHBOARD-POWER_BI
 Dhammadeep Gajbhiye
 Data Analyst | Power BI | SQL | Python | Excel
 
-Email: dhammdeepgajbhiye32@gmail.com
-LinkedIn: https://linkedin.com/in/dhammdeep-gajbhiye-57b38b16a/
-GitHub: https://github.com/dhammdeepgajbhiye32
+- Email: dhammdeepgajbhiye32@gmail.com
+- LinkedIn: https://linkedin.com/in/dhammdeep-gajbhiye-57b38b16a/
+- GitHub: https://github.com/dhammdeepgajbhiye32
 
 ⭐ If you found this project useful, consider giving it a ⭐ on GitHub and sharing your feedback.
