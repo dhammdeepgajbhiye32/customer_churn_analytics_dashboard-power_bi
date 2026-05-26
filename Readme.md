@@ -98,23 +98,28 @@ This dashboard helps stakeholders understand churn drivers, monitor retention pe
 ## 📸 Dashboard Images
 
 ### 🔹 Project Overview & Business Objectives
+![Dashboard_1](Images/01.Customer_Churn_Analysis_Overview.png)
 
 This page introduces the customer churn problem, project objectives, KPIs, and dashboard navigation while providing business context for the analysis.
 
 
 ### 🔹 Customer Churn & Retention Analysis Dashboard
+![Dashboard_1](Images/02.Customer_Churn_Analysis_and_Retention_Insights.png)
 
 This dashboard provides a comprehensive overview of customer churn trends, retention performance, customer demographics, revenue impact, and service subscription patterns.
 
 ### 🔹 Customer Segmentation & Churn Behavior Dashboard
+![Dashboard_1](Images/03.Customer_Segmentation_and_Behavioral_Analysis.png)
 
 This dashboard explores customer behavior across demographic groups, contract types, payment methods, tenure segments, and service usage to identify churn-prone customers.
 
 ### 🔹 Key Insights
+![Dashboard_1](Images/04.Key_Insights.png)
 
 Highlights major analytical findings, customer behavior trends, churn drivers, and retention opportunities identified during the analysis.
 
 ### 🔹 Business Recommendations
+![Dashboard_1](Images/05.Business_Recommendations.png)
 
 Presents actionable recommendations focused on improving customer retention, reducing churn risk, increasing engagement, and maximizing customer lifetime value.
 
