@@ -48,7 +48,6 @@ This dashboard helps stakeholders understand churn drivers, monitor retention pe
 - [Tools & Technologies](#️-tools--technologies)
 - [Data Cleaning & Preparation](#-data-cleaning--preparation)
 - [Project Workflow](#-project-workflow)
-- [Project Impact](#-project-impact)
 - [Project Structure](#-project-structure)
 - [How to Use](#️-how-to-use)
 - [Author & Contact](#author--contact)
