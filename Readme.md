@@ -51,7 +51,7 @@ This dashboard helps stakeholders understand churn drivers, monitor retention pe
 - [Project Impact](#-project-impact)
 - [Project Structure](#-project-structure)
 - [How to Use](#️-how-to-use)
-- [Author & Contact](#-author--contact)
+- [Author & Contact](#author--contact)
 
 ---
 
@@ -281,7 +281,7 @@ CUSTOMER_CHURN_ANALYTICS_DASHBOARD-POWER_BI
 
 ---
 
-## 👨‍💻 Author & Contact
+## Author & Contact
 
 Dhammadeep Gajbhiye
 Data Analyst | Power BI | SQL | Python | Excel
